@@ -14,7 +14,7 @@ Now, let's play the betting game
 Switch Metamask to Moonbeam
 Let's send VRF from moonbeam to polygon next
 
-Step1 : Deploy ExecutableVRF from axelar.sol using the following params on moonbeam
+Step1 : Deploy ExecutableVRF from axelar.sol using the following params on moonbase
 
 gateway : 0x5769D84DD62a6fD969856c75c7D321b84d455929
 gasService : 0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6
