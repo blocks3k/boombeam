@@ -1,12 +1,17 @@
 #Deployment
 
 ```cd  crosschainrand```
+
 ```foundry install``` ( to install dependencies )
+
 ```touch .env```
+
  set RPC variables in  .env file in project root 
+ 
 ( MATIC_RPC_URL and GOERLI_RPC_URL from INFURA)
 
 ```forge script script/Counter.s.sol:CounterScript --broadcast --verify -vvvv ```
+
 This will deploy the contracts and verify on etherscan
 
 
