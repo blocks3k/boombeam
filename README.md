@@ -1,3 +1,7 @@
+# Cross Chain Randomness 
+
+![Cross Chain Randomness](https://raw.githubusercontent.com/blocks3k/boombeam/1fd9b048f34a72622734a0e0810341bc7fa42c60/logo.jpeg)
+
 ### Deployment
 
 ```cd  crosschainrand```
