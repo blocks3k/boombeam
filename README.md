@@ -1,4 +1,4 @@
-###Deployment
+### Deployment
 
 ```cd  crosschainrand```
 
@@ -17,7 +17,7 @@ This will deploy the contracts and verify on etherscan
 
 Detailed instructions  @ https://www.youtube.com/watch?v=hNoIWLgHQrI
 
-###How it works?
+### How does it work?
 
 
 Deploy File ExecutableSample : SuperRandom contract on polygon mumbai with the following args
