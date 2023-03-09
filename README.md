@@ -8,6 +8,7 @@ forge script script/Counter.s.sol:CounterScript --broadcast --verify -vvvv
 This will deploy the contracts and verify on etherscan
 
 
+Detailed instructions  @ https://www.youtube.com/watch?v=hNoIWLgHQrI
 
 How it works?
 
