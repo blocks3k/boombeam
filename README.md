@@ -1,4 +1,16 @@
-Deployment 
+#Deployment
+
+cd into crosschainrand
+run foundry install ( to install dependencies )
+then set ENV variables in a .env file in project root ( MATIC and GOERLI RPC url's from INFURA)
+forge script script/Counter.s.sol:CounterScript --broadcast --verify -vvvv 
+
+This will deploy the contracts and verify on etherscan
+
+
+
+How it works?
+
 
 Deploy File ExecutableSample : SuperRandom contract on polygon mumbai with the following args
 gateway : 0xBF62ef1486468a6bd26Dd669C06db43dEd5B849B
